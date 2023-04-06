@@ -10,9 +10,8 @@ Uma aplicação em Vue 3 com composition API que permite a busca de uma cidade p
 - [Vue 3](https://vuejs.org/)
 - [Weather API](https://www.weatherapi.com/)
 
-
-
-## Configuração do projeto
+#### Configuração do projeto
+---
 
 ```sh
 # clona .env -> .env.local
